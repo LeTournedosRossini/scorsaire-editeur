@@ -1,0 +1,7 @@
+Photograph used (reduced) as the "soprano saxophone" icon: src/model/icon-photos.js
+
+Title:    KennyGHWOFMay2013.jpg ("Kenny G at a ceremony for David Foster to receive a star on the Hollywood Walk of Fame", 31 May 2013)
+Author:   Angela George (https://www.flickr.com/photos/sharongraphics/)
+Source:   https://commons.wikimedia.org/wiki/File:KennyGHWOFMay2013.jpg
+Licence:  Creative Commons Attribution-ShareAlike 3.0 Unported — https://creativecommons.org/licenses/by-sa/3.0/
+Changes:  cropped to a square around the face and reduced to 96 x 96 pixels (JPEG). The changed picture is released under the same licence.
