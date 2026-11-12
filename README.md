@@ -1,25 +1,29 @@
-# Scorsaire : l'éditeur
+# Scorsaire — éditeur de partitions
 
-**Scorsaire** est un éditeur de partition qui tient dans un seul fichier : notation, tablature, grille d'accords, rythmique et batterie, avec de vrais sons, des pages à imprimer et des feuilles pour les lecteurs. Il s'ouvre dans le navigateur, sur ordinateur, tablette ou téléphone.
+Éditeur de partitions **installable** et utilisable **hors ligne** : notation, tablature, batterie, accords, parties imprimables, synchro et lecteurs.
 
-- **Ouvrir l'éditeur** : <https://letournedosrossini.github.io/scorsaire-editeur/>
-- **Manuel** (français et anglais, avec captures et glossaire des icônes) : <https://letournedosrossini.github.io/scorsaire-lecteur/manuel/>
-- **Le Lecteur** (lire en scène ou en cours, sans rien modifier) : <https://letournedosrossini.github.io/scorsaire-lecteur/>
+- Ouvrez l'application : <https://letournedosrossini.github.io/scorsaire-editeur/>
+- Lisez le **manuel** (français et anglais, avec captures et glossaire des icônes) : <https://letournedosrossini.github.io/scorsaire-lecteur/manuel/>
+- Installez-la depuis le navigateur (« Installer » / « Ajouter à l'écran d'accueil »).
+- Vos partitions restent sur votre appareil : rien n'est envoyé nulle part. Un brouillon automatique est gardé dans le navigateur et proposé au prochain lancement si la fermeture a interrompu le travail.
+- Une nouvelle version est téléchargée en arrière-plan ; l'application vous propose de la prendre quand vous le décidez.
 
-L'éditeur s'installe comme une application (le menu du navigateur propose « Installer »). Quand une nouvelle version est prête, il propose de se mettre à jour, sans jamais l'imposer. Vos partitions restent sur votre appareil : rien n'est envoyé nulle part.
+Le lecteur de recueils (setlists) est une application à part : <https://letournedosrossini.github.io/scorsaire-lecteur/>
 
-Ce dépôt ne contient que l'application construite (la page, son manifeste, son service worker et ses icônes), publiée par GitHub Pages. Licence GPLv3+.
+Ce dépôt ne contient que l'application construite. Licence GPLv3+ (`LICENSE`) ; polices, glyphes et bibliothèques tierces : voir `LICENSES/`.
 
 ---
 
-# Scorsaire: the editor
+# Scorsaire — score editor
 
-**Scorsaire** is a music score editor that fits in a single file: notation, tablature, chord grids, rhythm staves and drums, with real sounds, pages to print and sheets for readers. It opens in the browser, on a computer, a tablet or a phone.
+An **installable** score editor that also works **offline**: notation, tablature, drums, chords, printable parts, sync and readers.
 
-- **Open the editor**: <https://letournedosrossini.github.io/scorsaire-editeur/>
-- **Manual** (French and English, with pictures and an icon glossary): <https://letournedosrossini.github.io/scorsaire-lecteur/manuel/>
-- **The Reader** (read on stage or in class, without changing anything): <https://letournedosrossini.github.io/scorsaire-lecteur/>
+- Open the app: <https://letournedosrossini.github.io/scorsaire-editeur/>
+- Read the **manual** (French and English, with pictures and an icon glossary): <https://letournedosrossini.github.io/scorsaire-lecteur/manuel/>
+- Install it from the browser (“Install” / “Add to home screen”).
+- Your scores stay on your device: nothing is sent anywhere. An automatic draft is kept in the browser and offered at the next launch if the work was interrupted.
+- A new version is downloaded in the background; the app offers it when you decide.
 
-The editor installs like an app (the browser menu offers “Install”). When a new version is ready it offers to update, and never forces it. Your scores stay on your device: nothing is sent anywhere.
+The setlist reader is a separate app: <https://letournedosrossini.github.io/scorsaire-lecteur/>
 
-This repository holds only the built application (the page, its manifest, its service worker and its icons), served by GitHub Pages. Licence: GPLv3+.
+This repository only holds the built application. Licence: GPLv3+ (`LICENSE`); third-party fonts, glyphs and libraries: see `LICENSES/`.
