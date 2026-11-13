@@ -2,7 +2,7 @@
 // at every launch. A new version is downloaded in the BACKGROUND and WAITS: the page offers it to the person ("update"), who decides when, so an open score is never replaced
 // under their hands. Only this folder's own files are handled: the SoundFont and everything else cross-origin goes straight to the network (the editor keeps its own cache for them).
 // CACHE_VERSION is written by tools/build.js (a hash of the page): a different page is a different version.
-const CACHE_VERSION = '1510eee482';
+const CACHE_VERSION = 'ec36ba436f';
 const PREFIX = 'scorsaire-editeur-';
 const PRECACHE_URLS = ['./index.html', './manifest.json', './icon-180.png', './icon-192.png', './icon-512.png'];
 
